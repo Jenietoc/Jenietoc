@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **kommit**
 
-- 🌱 I’m currently learning **Rust and Soroban_sdk**
+- 🌱 I’m currently learning **Elixir**
 
 - 📫 How to reach me **nieto990505@gmail.com**
 
