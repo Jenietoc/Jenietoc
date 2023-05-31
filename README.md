@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Juan Esteban Nieto</h1>
 <h3 align="center">A passionate about technology and software development from Colombia.</h3>
 
-- 🔭 I’m currently working on **kommit**
-
 - 🌱 I’m currently learning **Elixir**
 
 - 📫 How to reach me **nieto990505@gmail.com**
